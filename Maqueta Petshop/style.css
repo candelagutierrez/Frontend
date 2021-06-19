@@ -1,0 +1,48 @@
+header {
+    background-color: black;
+    color: white;
+
+}
+
+#primeraseccion {
+    background-color: orange;
+    color: white;
+}
+
+
+#bowl {
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-style: inherit;
+}
+.precios {
+    color: orange;
+}
+
+footer {
+    background-color: rgb(88, 41, 10);
+    color: white;
+    font-weight: bold;
+}
+
+#final {
+    background-color: orange;
+    text-align: center;
+    font-style: italic;
+}
+
+#sinrelleno {
+    background-color: white;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
